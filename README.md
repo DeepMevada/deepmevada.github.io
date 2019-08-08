@@ -1,1 +1,0 @@
-# deepmevada.github.io
