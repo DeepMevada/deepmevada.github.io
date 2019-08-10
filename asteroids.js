@@ -1,6 +1,6 @@
 let canvas;
 let ctx;
-let canvasWidth = 1000;
+let canvasWidth = 700;
 let canvasHeight = 700;
 let keys = [];
 let ship;
