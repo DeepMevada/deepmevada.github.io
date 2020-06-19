@@ -14,7 +14,7 @@ function toggleMenu() {
     menu.classList.add("show");
     menuNav.classList.add("show");
     menuImg.classList.add("show");
-    navItems.forEach(item => item.classList.add("show"));
+    navItems.forEach((item) => item.classList.add("show"));
 
     showMenu = true;
   } else {
@@ -22,7 +22,7 @@ function toggleMenu() {
     menu.classList.remove("show");
     menuNav.classList.remove("show");
     menuImg.classList.remove("show");
-    navItems.forEach(item => item.classList.remove("show"));
+    navItems.forEach((item) => item.classList.remove("show"));
 
     showMenu = false;
   }
